@@ -1,5 +1,6 @@
 # PRODIGY_WD_03
 
+# Tic-Tac-Toe Game 🎮❌⭕
 
 This is a straightforward Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Designed for two players, the game allows users to take turns marking spaces on a 3x3 grid with either X or O.
 
